@@ -1,6 +1,6 @@
-bubbles
+Dynamic Webpage
 =======
 
-playing with html, css, and javascript
+playing with html and css
 
-Eventual goal is to have a page with floating 'bubbles' that can contain links, images, etc. Features should include deleting bubbles and moving them.
+Eventual goal is to have a page with a few content pages. Each page pops up in front of the main homepage. 
